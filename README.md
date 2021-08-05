@@ -15,7 +15,7 @@ The winner who can get 💯 first.
 
 ### Links
  
-- Live Site URL: [Dice Game]() (play 🎲)
+- Live Site URL: [Dice Game](https://mariam11ibrahim.github.io/DiceGame/) (play 🎲)
 
 
 
